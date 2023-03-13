@@ -24,7 +24,7 @@
 - 📨 You can reach me via **[Discord](https://discord.com/users/141206144264699904)** & **[Email](mailto:mare.sampbn@gmail.com)**.
 
 
-- ⭐ My goal for late 2021 is to learn NuxtJs so I can make SSR Vue apps. Mainly my 2 apps for reading books and comics.
+- ⭐ My goal for 2023 is to learn PHP on a higher level, Nodejs advnaced and Flutter
 
 <br>
 
