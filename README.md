@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, Makogai here.</h1>
-<h3 align="center">21yo Web developer, mainly backend, but i proclaim myself as a full-stack. I'm a weeb doing weeb stuff.</h3>
+<h1 align="center">Hi there 👋, Marko here.</h1>
+<h3 align="center">22yo Web developer, mainly backend, but i proclaim myself as a full-stack. I'm a weeb doing weeb stuff.</h3>
 
 
 <p align="center">
